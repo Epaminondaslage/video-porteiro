@@ -99,6 +99,8 @@ O professor fornecerá o diagrama original do fabricante para referência.
 
 **b) Lançamento dos condutores**
 
+<img src="img/instalacao.jpg" alt="conexao elettica" width="40%">
+
 - Passar os fios recomendados pelo fabricante:
   - Cabo blindado (se necessário)
   - Cabos flexíveis 0,75 mm² ou 1,0 mm²
@@ -108,7 +110,7 @@ O professor fornecerá o diagrama original do fabricante para referência.
 
 **c) Instalação da Unidade Externa (UE)**
 
-<img src="img/instalacajpg" alt="equipamento externo" width="40%">
+<img src="img/instalaca-portariajpg" alt="equipamento externo" width="40%">
 
 - Fixar a base na parede conforme gabarito.
 - Conectar:
