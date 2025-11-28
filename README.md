@@ -108,6 +108,8 @@ O professor fornecerá o diagrama original do fabricante para referência.
 
 **c) Instalação da Unidade Externa (UE)**
 
+<img src="img/instalacajpg" alt="equipamento externo" width="40%">
+
 - Fixar a base na parede conforme gabarito.
 - Conectar:
   - Áudio / Vídeo
