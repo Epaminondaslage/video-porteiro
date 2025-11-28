@@ -32,18 +32,16 @@ Um sistema de vídeo porteiro consiste em um módulo externo com câmera, microf
 
 Em laboratório, o aluno instalará:
 
-- **Unidade Externa (UE)** — câmera, microfone, campainha.
-- **Unidade Interna (UI)** — monitor colorido.
-- **Fechadura Elétrica** (simulação ou carga real).
+- **Unidade Externa (UE)** — Box 4 - câmera, microfone, campainha.
+- **Unidade Interna (UI)** — Box 3 - aparelho telefonico com monitor colorido.
+- **Fechadura Elétrica** (fechadura porta box 4).
 - **Eletrodutos e caixas** conforme padrão do Box didático.
 
-A comunicação entre os módulos ocorre por ** 4 fios**, conforme o modelo do equipamento.
+A comunicação entre os módulos ocorre por ** 4 fios**, conforme o modelo do equipamento utilizado.
 
 ---
 
 ## **Parte Prática**
-
----
 
 ##  **Desenho Simbólico em Planta Baixa**
 
@@ -55,7 +53,7 @@ O aluno deverá elaborar o **desenho simbólico** contendo:
 - Posição da unidade interna (parede do Box).
 - Caminho dos eletrodutos.
 - Caixas de passagem e fixação.
-- Trajeto até a fechadura elétrica.
+- Trajeto até a fechadura elétrica ( Box 4).
 
 ### **Elementos obrigatórios**
 
