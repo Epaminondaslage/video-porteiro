@@ -145,6 +145,8 @@ O professor fornecerá o diagrama original do fabricante para referência.
    - Resposta do alto-falante
 4. Acionar a fechadura pela UI.
 5. Confirmar abertura ou simulação da carga.
+   
+<img src="img/operacao.jpg" alt="equipamento" width="50%">
 
 ---
 
