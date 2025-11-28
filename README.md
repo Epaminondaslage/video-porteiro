@@ -28,22 +28,20 @@ Ao final desta atividade, o aluno será capaz de:
 Um sistema de vídeo porteiro consiste em um módulo externo com câmera, microfone, alto-falante e botão de chamada, e um módulo interno com monitor para visualizar o visitante e realizar a comunicação. Também pode incluir o acionamento de uma **fechadura elétrica**, permitindo ao morador liberar o acesso diretamente do monitor.
 
 
-<img src="img/equipamento.jpg" alt="equipamento" width="10%">
+<img src="img/aparelho.jpg" alt="equipamento" width="40%">
 
 Em laboratório, o aluno instalará:
 
-- **Unidade Externa (UE)** — câmera, microfone, campainha.
-- **Unidade Interna (UI)** — monitor colorido.
-- **Fechadura Elétrica** (simulação ou carga real).
+- **Unidade Externa (UE)** — Box 4 - câmera, microfone, campainha.
+- **Unidade Interna (UI)** — Box 3 - aparelho telefonico com monitor colorido.
+- **Fechadura Elétrica** (fechadura porta box 4).
 - **Eletrodutos e caixas** conforme padrão do Box didático.
 
-A comunicação entre os módulos ocorre por ** 4 fios**, conforme o modelo do equipamento.
+A comunicação entre os módulos ocorre por ** 4 fios**, conforme o modelo do equipamento utilizado.
 
 ---
 
 ## **Parte Prática**
-
----
 
 ##  **Desenho Simbólico em Planta Baixa**
 
@@ -55,7 +53,7 @@ O aluno deverá elaborar o **desenho simbólico** contendo:
 - Posição da unidade interna (parede do Box).
 - Caminho dos eletrodutos.
 - Caixas de passagem e fixação.
-- Trajeto até a fechadura elétrica.
+- Trajeto até a fechadura elétrica ( Box 4).
 
 ### **Elementos obrigatórios**
 
@@ -147,6 +145,8 @@ O professor fornecerá o diagrama original do fabricante para referência.
    - Resposta do alto-falante
 4. Acionar a fechadura pela UI.
 5. Confirmar abertura ou simulação da carga.
+   
+<img src="img/operacao.jpg" alt="equipamento" width="50%">
 
 ---
 
