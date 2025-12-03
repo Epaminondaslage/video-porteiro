@@ -171,14 +171,4 @@ Ao final:
 
 ---
 
-# ✔️ **Resultado Esperado**
-
-O aluno deverá demonstrar capacidade de:
-
-- Interpretar diagramas de vídeo porteiro.
-- Executar instalações limpas e conforme normas.
-- Realizar testes funcionais completos.
-- Apresentar domínio prático do sistema de comunicação e acionamento.
-
----
 
