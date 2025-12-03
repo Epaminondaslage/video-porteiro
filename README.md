@@ -57,6 +57,8 @@ O aluno deverá elaborar o **desenho simbólico** contendo:
 - Caixas de passagem e fixação.
 - Trajeto até a fechadura elétrica ( Box 4).
 
+<img src="img/instalacao-box.jpg" alt="equipamento" width="50%">
+
 ### **Elementos obrigatórios**
 
 - Representação da UE, UI e fechadura.
