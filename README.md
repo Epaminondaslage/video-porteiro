@@ -81,7 +81,7 @@ No diagrama unifilar deve constar:
   - **Abertura da Fechadura**
 
 
-<img src="img/instalacao.jpg" alt="conexao elettica" width="60%">
+<img src="img/instalacao.jpg" alt="conexao elettica" width="80%">
 
 ---
 
