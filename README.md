@@ -28,7 +28,7 @@ Ao final desta atividade, o aluno será capaz de:
 Um sistema de vídeo porteiro consiste em um módulo externo com câmera, microfone, alto-falante e botão de chamada, e um módulo interno com monitor para visualizar o visitante e realizar a comunicação. Também pode incluir o acionamento de uma **fechadura elétrica**, permitindo ao morador liberar o acesso diretamente do monitor.
 
 
-<img src="img/aparelho.jpg" alt="equipamento" width="40%">
+<img src="img/propaganda.jpg" alt="propaganda" width="40%">
 
 Em laboratório, o aluno instalará:
 
@@ -38,6 +38,8 @@ Em laboratório, o aluno instalará:
 - **Eletrodutos e caixas** conforme padrão do Box didático.
 
 A comunicação entre os módulos ocorre por ** 4 fios**, conforme o modelo do equipamento utilizado.
+
+<img src="img/aparelho.jpg" alt="equipamento" width="60%">
 
 ---
 
@@ -64,6 +66,7 @@ O aluno deverá elaborar o **desenho simbólico** contendo:
   - UE: ~1,40 m  
 - Identificação dos cabos.
 
+<img src="img/conexoes.jpg" alt="equipamento" width="60%">
 ---
 
 ## **Diagrama Unifilar – Sistema de Vídeo Porteiro**
@@ -80,7 +83,8 @@ No diagrama unifilar deve constar:
   - **Alimentação**
   - **Abertura da Fechadura**
 
-O professor fornecerá o diagrama original do fabricante para referência.
+
+<img src="img/instalacao.jpg" alt="conexao elettica" width="80%">
 
 ---
 
@@ -108,6 +112,8 @@ O professor fornecerá o diagrama original do fabricante para referência.
 
 **c) Instalação da Unidade Externa (UE)**
 
+<img src="img/instalaca-portaria.jpg" alt="equipamento externo" width="40%">
+
 - Fixar a base na parede conforme gabarito.
 - Conectar:
   - Áudio / Vídeo
@@ -118,6 +124,8 @@ O professor fornecerá o diagrama original do fabricante para referência.
 ---
 
 ### d) **Instalação da Unidade Interna (UI)**
+
+<img src="img/interno.jpg" alt="equipamento" width="60%">
 
 - Fixar suporte metálico na caixa 4×2 ou 4×4.
 - Conectar:
@@ -146,7 +154,7 @@ O professor fornecerá o diagrama original do fabricante para referência.
 4. Acionar a fechadura pela UI.
 5. Confirmar abertura ou simulação da carga.
    
-<img src="img/operacao.jpg" alt="equipamento" width="50%">
+<img src="img/operacao.jpg" alt="operacao" width="50%">
 
 ---
 
