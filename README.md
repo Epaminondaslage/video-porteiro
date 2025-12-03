@@ -28,7 +28,7 @@ Ao final desta atividade, o aluno será capaz de:
 Um sistema de vídeo porteiro consiste em um módulo externo com câmera, microfone, alto-falante e botão de chamada, e um módulo interno com monitor para visualizar o visitante e realizar a comunicação. Também pode incluir o acionamento de uma **fechadura elétrica**, permitindo ao morador liberar o acesso diretamente do monitor.
 
 
-<img src="img/aparelho.jpg" alt="equipamento" width="40%">
+<img src="img/aparelho.jpg" alt="equipamento" width="60%">
 
 Em laboratório, o aluno instalará:
 
@@ -99,7 +99,7 @@ O professor fornecerá o diagrama original do fabricante para referência.
 
 **b) Lançamento dos condutores**
 
-<img src="img/instalacao.jpg" alt="conexao elettica" width="40%">
+<img src="img/instalacao.jpg" alt="conexao elettica" width="60%">
 
 - Passar os fios recomendados pelo fabricante:
   - Cabo blindado (se necessário)
