@@ -28,7 +28,7 @@ Ao final desta atividade, o aluno será capaz de:
 Um sistema de vídeo porteiro consiste em um módulo externo com câmera, microfone, alto-falante e botão de chamada, e um módulo interno com monitor para visualizar o visitante e realizar a comunicação. Também pode incluir o acionamento de uma **fechadura elétrica**, permitindo ao morador liberar o acesso diretamente do monitor.
 
 
-<img src="img/propaganda.jpg" alt="propaganda" width="40%">
+<img src="img/propaganda.jpg" alt="propaganda" width="30%">
 
 Em laboratório, o aluno instalará:
 
@@ -39,7 +39,7 @@ Em laboratório, o aluno instalará:
 
 A comunicação entre os módulos ocorre por ** 4 fios**, conforme o modelo do equipamento utilizado.
 
-<img src="img/aparelho.jpg" alt="equipamento" width="60%">
+<img src="img/aparelho.jpg" alt="equipamento" width="50%">
 
 ---
 
@@ -57,7 +57,7 @@ O aluno deverá elaborar o **desenho simbólico** contendo:
 - Caixas de passagem e fixação.
 - Trajeto até a fechadura elétrica ( Box 4).
 
-<img src="img/instalacao-box.jpg" alt="equipamento" width="50%">
+<img src="img/instalacao-box.jpg" alt="equipamento" width="70%">
 
 ### **Elementos obrigatórios**
 
@@ -68,7 +68,7 @@ O aluno deverá elaborar o **desenho simbólico** contendo:
   - UE: ~1,40 m  
 - Identificação dos cabos.
 
-<img src="img/conexoes.jpg" alt="equipamento" width="60%">
+<img src="img/conexoes.jpg" alt="equipamento" width="40%">
 ---
 
 ## **Diagrama Unifilar – Sistema de Vídeo Porteiro**
