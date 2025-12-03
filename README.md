@@ -80,7 +80,8 @@ No diagrama unifilar deve constar:
   - **Alimentação**
   - **Abertura da Fechadura**
 
-O professor fornecerá o diagrama original do fabricante para referência.
+
+<img src="img/instalacao.jpg" alt="conexao elettica" width="60%">
 
 ---
 
@@ -98,8 +99,6 @@ O professor fornecerá o diagrama original do fabricante para referência.
 ---
 
 **b) Lançamento dos condutores**
-
-<img src="img/instalacao.jpg" alt="conexao elettica" width="60%">
 
 - Passar os fios recomendados pelo fabricante:
   - Cabo blindado (se necessário)
